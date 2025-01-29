@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mateusz Rojek
 - 👀 I’m interested in computer science.
-- 🌱 I’m currently learning c#/.NET
+- 🌱 I’m currently learning C#/.NET
 - 💞️ I’m looking to collaborate on anyone :)
 - 📫 How to reach me ... https://www.linkedin.com/in/mateusz-rojek/
 
