@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mateusz Rojek
 - 👀 I’m interested in computer science and graphic design.
-- 🌱 I’m currently learning C#/.NET
+- 🌱 I’m currently learning C#/.NET/REST_WEB_API
 - 📫 How to reach me ... https://www.linkedin.com/in/mateusz-rojek/
 
 
