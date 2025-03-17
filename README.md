@@ -1,4 +1,4 @@
-#  <p align="center">Hi, I’m Mateusz Rojek</p>
+# Hi, I’m Mateusz Rojek
 
 # <img src="https://github.com/user-attachments/assets/c8f98412-3528-47f9-a2cd-7b09362e4c18" height="50" /> About Me:
 - 👀 I’m interested in computer science and graphic design.
