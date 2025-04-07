@@ -2,8 +2,8 @@
 
 # <img src="https://github.com/user-attachments/assets/c8f98412-3528-47f9-a2cd-7b09362e4c18" height="50" /> About Me:
 - 👀 I’m interested in computer science and graphic design.
-- 🔭 I’m currently working on Pet Hotel API
-- 🌱 I’m currently learning .NET and REST WEB API
+- 🔭 I’m currently working on PharmacyManager_MVC
+- 🌱 I’m currently learning ASP.NET Core MVC
 - 📫 How to reach me ... https://www.linkedin.com/in/mateusz-rojek/
 
 # <img src="https://github.com/user-attachments/assets/f374f33e-9055-4619-913d-3769211f038e" height="45" /> Tech Stack:
